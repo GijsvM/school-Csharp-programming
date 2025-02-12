@@ -20,17 +20,19 @@ namespace StudentAdinistration
             int option = Console.Read() - '0';
             switch (option)
             {
-                case 1:
-                    Console.Clear();
-                    Console.WriteLine("Enter student name:");
-                    String newStudentName = Console.Read().ToString();
-                    Console.WriteLine("Enter student group:");
-                    String newStudentGroup = Console.Read().ToString();
-                    Console.WriteLine("Enter student PCN:");
-                    int newStudentPCN = Console.Read() - '0';
-                    Student newStudent = new Student(newStudentName, newStudentGroup, newStudentPCN);
-                    Console.WriteLine(newStudent.name + " added to " + newStudent.groupName + " with PCN " + newStudent.pcn);
-                    break;
+               case 1:
+                   Console.Clear();
+                   Console.ReadLine(); // Consume the leftover newline character
+                   Console.WriteLine("Enter student name:");
+                   String newStudentName = Console.ReadLine();
+                   Console.WriteLine("Enter student group:");
+                   String newStudentGroup = Console.ReadLine();
+                   Console.WriteLine("Enter student PCN:");
+                   int newStudentPCN = int.Parse(Console.ReadLine());
+                   Student newStudent = new Student(newStudentName, newStudentGroup, newStudentPCN);
+                   
+                   Console.WriteLine(newStudent.name + " added to " + newStudent.groupName + " with PCN " + newStudent.pcn);
+                   break;
                     
                 case 2:
                     
