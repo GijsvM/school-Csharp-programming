@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+C4cQusdDK8=",
+  "success": true,
+  "projectFilePath": "/home/gijs/Documents/school/C#-programming/starterassignment3/starterassignment3/starterassignment3.csproj",
+  "expectedPackageFiles": [
+    "/home/gijs/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.3/microsoft.aspnetcore.app.ref.9.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

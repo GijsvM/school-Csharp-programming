@@ -1,0 +1,14 @@
+/home/gijs/Documents/school/C#-programming/starterassignment3/starterassignment3/bin/Debug/net9.0/starterassignment3
+/home/gijs/Documents/school/C#-programming/starterassignment3/starterassignment3/bin/Debug/net9.0/starterassignment3.deps.json
+/home/gijs/Documents/school/C#-programming/starterassignment3/starterassignment3/bin/Debug/net9.0/starterassignment3.runtimeconfig.json
+/home/gijs/Documents/school/C#-programming/starterassignment3/starterassignment3/bin/Debug/net9.0/starterassignment3.dll
+/home/gijs/Documents/school/C#-programming/starterassignment3/starterassignment3/bin/Debug/net9.0/starterassignment3.pdb
+/home/gijs/Documents/school/C#-programming/starterassignment3/starterassignment3/obj/Debug/net9.0/starterassignment3.GeneratedMSBuildEditorConfig.editorconfig
+/home/gijs/Documents/school/C#-programming/starterassignment3/starterassignment3/obj/Debug/net9.0/starterassignment3.AssemblyInfoInputs.cache
+/home/gijs/Documents/school/C#-programming/starterassignment3/starterassignment3/obj/Debug/net9.0/starterassignment3.AssemblyInfo.cs
+/home/gijs/Documents/school/C#-programming/starterassignment3/starterassignment3/obj/Debug/net9.0/starterassignment3.csproj.CoreCompileInputs.cache
+/home/gijs/Documents/school/C#-programming/starterassignment3/starterassignment3/obj/Debug/net9.0/starterassignment3.dll
+/home/gijs/Documents/school/C#-programming/starterassignment3/starterassignment3/obj/Debug/net9.0/refint/starterassignment3.dll
+/home/gijs/Documents/school/C#-programming/starterassignment3/starterassignment3/obj/Debug/net9.0/starterassignment3.pdb
+/home/gijs/Documents/school/C#-programming/starterassignment3/starterassignment3/obj/Debug/net9.0/starterassignment3.genruntimeconfig.cache
+/home/gijs/Documents/school/C#-programming/starterassignment3/starterassignment3/obj/Debug/net9.0/ref/starterassignment3.dll
