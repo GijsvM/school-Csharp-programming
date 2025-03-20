@@ -1,0 +1,9 @@
+C:\Users\gijs\Downloads\PoloClubApp\PoloClubApp\bin\Debug\PoloClubApp.exe
+C:\Users\gijs\Downloads\PoloClubApp\PoloClubApp\bin\Debug\PoloClubApp.exe.config
+C:\Users\gijs\Downloads\PoloClubApp\PoloClubApp\obj\Debug\PoloClubApp.csproj.AssemblyReference.cache
+C:\Users\gijs\Downloads\PoloClubApp\PoloClubApp\obj\Debug\PoloClubApp.PoloClubAppForm.resources
+C:\Users\gijs\Downloads\PoloClubApp\PoloClubApp\obj\Debug\PoloClubApp.Properties.Resources.resources
+C:\Users\gijs\Downloads\PoloClubApp\PoloClubApp\obj\Debug\PoloClubApp.csproj.GenerateResource.cache
+C:\Users\gijs\Downloads\PoloClubApp\PoloClubApp\obj\Debug\PoloClubApp.csproj.CoreCompileInputs.cache
+C:\Users\gijs\Downloads\PoloClubApp\PoloClubApp\obj\Debug\PoloClubApp.exe
+C:\Users\gijs\Downloads\PoloClubApp\PoloClubApp\obj\Debug\PoloClubApp.pdb
